@@ -1,7 +1,7 @@
 "# sabrgam-collage" 
 
 
-# Sargam College Run Guide
+#  sabrgam-collage Run Guide
 
 Follow these steps to get the full-stack Sargam College website up and running.
 
